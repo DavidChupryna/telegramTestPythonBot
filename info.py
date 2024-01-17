@@ -26,4 +26,3 @@ correct_answers = [questions[0]["answer"], questions[1]["answer"], questions[2][
                    questions[4]["answer"], questions[5]["answer"], questions[6]["answer"], questions[7]["answer"],
                    questions[8]["answer"], questions[9]["answer"], questions[10]["answer"], questions[11]["answer"]]
 
-print(correct_answers)
